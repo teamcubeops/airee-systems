@@ -2,4 +2,24 @@
 
 body {
     font-family: 'Raleway', sans-serif;
+    background-color: rgb(25, 25, 25);
+    margin: 0;
+}
+
+.hero {
+    background-image: url("hero.png");
+    background-position: center;
+    margin-bottom: 25px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    color: #5c1d7e;
+    text-align: center;
+    font-weight: 900;
+    text-shadow: 0px 3px 2px #9435ef;
+    font-size: 4em;
+}
+img {
+    margin: auto;
+    display: block;
+    max-width: 100px;
 }
