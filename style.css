@@ -42,8 +42,27 @@ body {
     color: #822bf5;
 }
 
-.container blockquote {
+.quote-text {
     font-size: 0.8em;
     color: rgb(166, 166, 166);
-    margin-top: 50px;
+    font-weight: italic;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+.quote-attribution {
+    font-size: 0.8em;
+    color: rgb(117, 117, 117);
+    margin-top: 15px;
+    margin-left: 60px;
+    margin-bottom: 30px;
+}
+
+.footer {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.footer a {
+    text-decoration: none !important;
 }
