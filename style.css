@@ -10,6 +10,7 @@ body {
 .hero {
     background-image: url("hero.png");
     background-position: center;
+    background-size: cover;
     margin-bottom: 25px;
     padding-top: 50px;
     padding-bottom: 50px;
@@ -39,4 +40,10 @@ body {
 
 .container a {
     color: #822bf5;
+}
+
+.container blockquote {
+    font-size: 0.8em;
+    color: rgb(166, 166, 166);
+    margin-top: 50px;
 }
