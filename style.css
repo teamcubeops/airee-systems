@@ -12,8 +12,8 @@ body {
     background-position: center;
     background-size: cover;
     margin-bottom: 25px;
-    padding-top: 50px;
-    padding-bottom: 50px;
+    padding-top: 30px;
+    padding-bottom: 30px;
     color: #5c1d7e;
     text-align: center;
     font-weight: 900;
@@ -25,7 +25,7 @@ body {
 .hero img {
     margin: auto;
     display: block;
-    max-width: 100px;
+    max-width: 80px;
 }
 
 .container {
