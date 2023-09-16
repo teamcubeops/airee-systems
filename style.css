@@ -79,3 +79,12 @@ body {
     font-weight: 900;
     text-shadow: 0px 1px 2px #b50000;
 }
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #802ef9;
+    margin: 3em;
+    padding: 0;
+}
